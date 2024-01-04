@@ -11,6 +11,8 @@ I am a PhD student at Université Gustave Eiffel, in the Laboratoire de Bioméca
 
 **Research interest**
 
+I have a strong interest in movement analysis. While the focus of my PhD is on video-based markerless motion capture methods, I am also curious about the clinical questions associated with movement.
+
 **Publications**
 
 - **A. Chaumeil**, A. Muller, R. Dumas, T. Robert (2023). Effect of a confidence-based weighted 3D point reconstruction for markerless motion capture with a reduced number of cameras. Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization.
