@@ -1,11 +1,11 @@
 ### About me
 
 
-I am a PhD student at Université Gustave Eiffel, in the Laboratoire de Biomécanique et Mécanique des Chocs (LBMC), Lyon, France. I work on the development of new methods for video-based markerless motion capture in biomechanics. I am curious about biomechanics in general and motion analysis in particular, with a strong interest in the methods used for motion analysis.
+I am now a postdoctoral researcher at Ecole de Technologie Supérieure, in the Laboratoire d'Innovation Ouverte en Technologies de la Santé, Montréal, Québec, Canada. I work on the use of markerless motion capture and machine learning to improve fall risk prediction for healthy elderly adults. This one-year postdoc is a continuation of a first postdoc carried out with the LAMIH in Université Polytechnique Hauts-de-France, France. I am curious about biomechanics in general and motion analysis in particular, with a strong interest in the methods used for motion analysis.
 
 **Education 👩‍🎓**
 
-- PhD student in biomechanics and motion analysis, Université Gustave Eiffel, Lyon, France. Started in 2021, expecting to finish in 2024!
+- PhD student in biomechanics and motion analysis, Université Gustave Eiffel, Lyon, France. Finished in 2024!
 - M. Sc in biomechanics, Arts et Métiers Paristech, Paris, France.
 - M. Sc in engineering, Ecole des Mines de Saint-Etienne, Saint-Etienne, France.
 
