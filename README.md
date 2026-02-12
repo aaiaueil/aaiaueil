@@ -11,10 +11,10 @@ I am now a postdoctoral researcher at Ecole de Technologie Supérieure, in the L
 
 **Research interest**
 
-I have a strong interest in movement analysis. While the focus of my PhD is on video-based markerless motion capture methods, I am also curious about the clinical questions associated with movement.
+I have a strong interest in movement analysis. While the focus of my PhD was on video-based markerless motion capture methods, I am also curious about the clinical questions associated with movement.
 
 **Publications**
 
+- **A. Chaumeil**, B. K. Lahkar, A. Muller, R. Dumas, T. Robert (2024). Agreement between a markerless and a marker-based motion capture systems for balance related quantities. Journal of Biomechanics.
 - **A. Chaumeil**, A. Muller, R. Dumas, T. Robert (2023). Effect of a confidence-based weighted 3D point reconstruction for markerless motion capture with a reduced number of cameras. Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization.
-- **A. Chaumeil**, B. K. Lahkar, A. Muller, R. Dumas, T. Robert (2023). Agreement between a markerless and a marker-based motion capture system for balance related quantities. Paper submitted for review.
 - B. K. Lahkar, **A. Chaumeil**, A. Muller, R. Dumas, T. Robert (2022). Description, Development and Dissemination of Two Consistent Marker-based and Markerless Multibody Models.
